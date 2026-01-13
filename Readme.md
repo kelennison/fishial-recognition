@@ -24,3 +24,10 @@ A multi-fish tracking application using YOLOv8 and OpenCV tracking algorithms wi
    ```bash
    git clone https://github.com/yourusername/fishial-recognition.git
    cd fishial-recognition
+
+
+# Run the app
+streamlit run app.py
+
+# Alternative: Run and open browser automatically
+python -m webbrowser "http://localhost:8501" && streamlit run app.py

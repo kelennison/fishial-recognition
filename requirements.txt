@@ -1,0 +1,7 @@
+streamlit==1.38.0
+opencv-python==4.10.0.84
+ultralytics==8.2.90
+pandas==2.2.2
+numpy==1.26.4
+Pillow==10.4.0
+streamlit-drawable-canvas==0.9.3
